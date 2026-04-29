@@ -117,4 +117,4 @@ export default function FooterSection() {
     </footer>
   );
 }
-hola profe
+hola profe de
