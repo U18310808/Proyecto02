@@ -117,4 +117,4 @@ export default function FooterSection() {
     </footer>
   );
 }
-hola profe de omar diaz
+{hola profe de omar diazmas omar{}
